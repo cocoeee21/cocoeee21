@@ -37,14 +37,15 @@ Settings = {
     Promotepls = true, -- just promotes my discord
     forms = false, -- turn this on for forms, turn off for androids
     RejoinTime = 200, -- rejoins in broly if this time is exceeded
-    GrabChecker = 100, -- time it takes for broly to be last form, rejoins you if hes not by then
+    GrabChecker = 60, -- time it takes for broly to be last form, rejoins you if hes not by then
     FirstForm = 8888888888, -- the time it takes for brolies Super Saiyan form, this helps a little bit if you are grabbed
-    AnimateFreeze = false, -- Breaks your animator but youre still allowed to attack
+    AnimateFreeze = true, -- Breaks your animator but youre still allowed to attack
     invis = false, -- Determines whether your invisible or not, a good alternitive to carry mode so you dont get queued with a lot of people
     waittime = .8, -- the time it waits after it loads
     
         OutputChange = true, -- changes output when low ki
-        Amount = 20 -- the amount will be left doesnt go lower than 5, in intervals of 5 aswell 100, 95, 90, 85, ect...
+        Amount = 35
+       -- the amount will be left doesnt go lower than 5, in intervals of 5 aswell 100, 95, 90, 85, ect...
 }
 
 _3d77doX5mQ3m2C01, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
